@@ -3,7 +3,7 @@ A1_compustat_monthly_data.R
 ======================
 1. Require, clean, renamre data from CRSP database, save it as "compustat_monthly.rds"
 
-2. Calculate cost of debt. Since the # of cost of debt is small, we can choose to use the interest rate to replace it.
+2. Calculate cost of debt. 
 
 3. Span the quarterly data to monthly data, save it as "span_compustat.rds".
 
